@@ -1,6 +1,8 @@
 # algo_HW3_A_c
 עבודת הגשה 3 באלגוריתמים מתקדמים, שאלה 1 סעיף ג
 
+מגישים: יניר לטישב | נדב מייק
+
 Link to a colab:
 
 https://colab.research.google.com/drive/1MarietbESMWEDeaMeAIfhuLbavAXy5wg?usp=sharing
